@@ -20,12 +20,34 @@ Currently focusing on **Backend Engineering** and building scalable solutions fo
 </div>
 
 ---
+## 🚀 About Me
+
+```python
+class AbiteshPabbulate:
+    def __init__(self):
+        self.location = "Nellore, Andhra Pradesh, India "
+        self.education = "BTech in Computer Science (2nd Year)"
+        self.current_focus = "Fullsatck Development"
+        self.future_goals = ["Master Frontend & Backend","Build Impactful projects solving real world problems"]
+        self.learning_style = "Project-Based Learning 🛠️"
+    
+    def say_hi(self):
+        print("Thanks for looking my profile! Let's build somethong meaningfull")
+
+me = AbiteshPabbulate()
+me.say_hi()
+```
+
+> 💡 Aspiring **Full Stack Engineer** turning ideas into code!
+
+---
+
 
 ### 🛠️ Languages & Tools
 
-<div align="left">
+<div align="center">
 
-**Languages** <br/>
+**Languages** <br/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
