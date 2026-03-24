@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abitesh Pabbulate! 👋
 
-### 👨‍💻 Aspiring Full-Stack Developer | 🎓 Student at NIT Rourkela
+### 👨‍💻 Aspiring Backend Engineer | 🎓 Student at NIT Rourkela
 
 <a href="https://www.linkedin.com/in/abitesh-pabbulate-a36293360/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -38,7 +38,7 @@ me = AbiteshPabbulate()
 me.say_hi()
 ```
 
-> 💡 Aspiring **Full Stack Engineer** turning ideas into code!
+> 💡 Aspiring **Backend Engineer** turning ideas into code!
 
 ---
 
